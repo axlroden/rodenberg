@@ -21,7 +21,7 @@ timezone:
 
 title: Rodenberg                          # the main title
 
-tagline: -   # it will display as the sub-title
+tagline: Funny.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Very much info.
